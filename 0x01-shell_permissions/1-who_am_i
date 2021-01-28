@@ -1,4 +1,3 @@
 
 #!/bin/bash
-whoami\n
-
+sudo usermod -l root betty
