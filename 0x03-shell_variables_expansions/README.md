@@ -1,0 +1,1 @@
+Writing scripts of the shell, init files, variables and expansions
